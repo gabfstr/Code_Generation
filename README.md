@@ -4,8 +4,7 @@ Final Project for the Natural Language Processing course.
 <img width="600" alt="Capture d’écran 2023-06-19 à 23 52 12" src="https://github.com/gabfstr/Code_Generation/assets/88781950/a9c496d1-05ba-4ffa-a1ce-7c897d27fadf">
 
 
-
-
+**Abstract**
 A lot of recent work on both Large Language Models (LLMs) and generative models for text showed particular improvement on the code generation task and reaffirmed its higher importance. 
 Inspired by the paper [Evaluating Large Language models on Code](https://github.com/openai/human-eval) and the performance of the associated model, Codex, we decide to focus on the code generation task and to discuss the convergence between code generation models and "human-style" logic and development concepts in the process of code generation.
 
