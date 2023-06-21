@@ -1,7 +1,9 @@
 # NLP_code_generation
 Final Project for the Natural Language Processing course.
 
-<img width="692" alt="Capture d’écran 2023-06-20 à 03 45 32" src="https://github.com/Shanehoeb/NLP_code_generation/assets/88781950/f98faff7-5b50-4f90-aefd-632260e5db1a">
+<img width="600" alt="Capture d’écran 2023-06-19 à 23 52 12" src="https://github.com/gabfstr/Code_Generation/assets/88781950/a9c496d1-05ba-4ffa-a1ce-7c897d27fadf">
+
+
 
 
 A lot of recent work on both Large Language Models (LLMs) and generative models for text showed particular improvement on the code generation task and reaffirmed its higher importance. 
